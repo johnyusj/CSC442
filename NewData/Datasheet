@@ -1,0 +1,19 @@
+Datasheet:
+
+  year                 Year which the data is from
+  tmID                 Id of the team
+  G                    Games played by the team
+  Pts                  Number of team points
+  GF                   Number of goals for
+  GA                   Number of goals against
+  GP                   Total number of games played by goalies
+  Min                  Total number of minutes played by goalies
+  SHO                  Total number of shootouts
+  SA                   Total number of shots against
+  PIM                  Number of penalties in minutes
+  PPG                  Number of power play goals
+  PPC                  Number of power play chances
+  PKG                  Number of penalty kill goals against
+  PKC                  Number of penalty kill chances
+  SavePercentage       Percentage of goals saved
+  GoalsAgainstAvg      Average number of goals against the team

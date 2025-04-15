@@ -1,0 +1,58 @@
+Goalies.csv:
+
+playerID: Player ID
+year: Year (2005-06 listed as "2005")
+stint: Stint (order of appearance in a season)
+tmID: Team ID
+lgID: League ID
+GP: Games played
+Min: Minutes
+W: Wins
+L: Losses
+T/OL: Ties / overtime losses
+ENG: Empty net goals
+SHO: Shutouts
+GA: Goals against
+SA: Shots against
+PostGP: Postseason games played
+PostMin: Postseason minutes
+PostW: Postseason wins
+PostL: Postseason losses
+PostT: Postseason ties
+PostENG: Postseason empty net goals
+PostSHO: Postseason shutouts
+PostGA: Postseason goals against
+PostSA: Postseason shots against
+
+
+Teams.csv:
+
+year: Year (2005-06 listed as "2005")
+lgID: League ID
+tmID: Team ID
+franchID: Franchise ID
+confID: Conference ID (see abbrev.csv for details)
+divID: Division ID (see abbrev.csv for details)
+rank: Final standing
+playoff: Playoff result (see abbrev.csv for details)
+G: Games
+W: Wins
+L: Losses
+T: Ties
+OTL: Overtime losses
+Pts: Points
+SoW: Shootout wins
+SoL: Shootout losses
+GF: Goals for
+GA: Goals against
+name: Full team name
+PIM: Penalty minutes
+BenchMinor: Bench minors (minutes)
+PPG: Power play goals
+PPC: Power play chances
+SHA: Shorthanded goals against
+PKG: Power play goals against
+PKC: Penalty kill chances
+SHF: Shorthanded goals for
+
+
